@@ -58,8 +58,12 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+            Expertise in Front End development, based on languages ​​and technologies JavaScript, Typescript,
+            React, CSS and NextJS. Familiarity with good clean code development practices
+            use of agile methodology (SCRUM). Experience in building projects in groups of
+            completing a module on Kenzie's course, acting as a tech lead. Domain in flexbox and
+            styled-components Basics of UX/UI design. In the Back End, use of TypeORM in the construction of CRUD
+            as well as the use of Python with the Django framework.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
